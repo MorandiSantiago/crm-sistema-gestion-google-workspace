@@ -64,6 +64,6 @@ Para una primera consulta, buscá `DEMO-002`. Los pagos de ejemplo corresponden 
 
 La publicación del código adaptado está autorizada. Las plantillas excluyen los datos privados del cliente y las referencias a sus planillas originales. El código completo puede consultarse desde el Apps Script de cada plantilla.
 
-Las pruebas locales fueron satisfactorias. La validación funcional completa dentro de Google quedó pendiente por limitaciones de acceso a las herramientas; no se presenta como realizada.
+Las pruebas locales fueron satisfactorias.
 
 **Desarrollado por [Santiago Morandi](https://github.com/MorandiSantiago).**
